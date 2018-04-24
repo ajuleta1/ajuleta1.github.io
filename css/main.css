@@ -1,0 +1,12 @@
+#head{
+    background-color:rgba(77,134,54,0.74);
+    text-decoration-color: white;
+     
+}
+#ham{
+    position: right;
+
+}
+#head{
+    position: left;
+}
